@@ -1,0 +1,10 @@
+body{
+    font-family: Arial;
+    text-align:center;
+    margin-top:50px;
+}
+
+.calculator{
+    width:300px;
+    margin:auto;
+}
